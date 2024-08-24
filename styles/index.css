@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.container {
+    text-align: center;
+    padding: 20px
+}
+
+.container a {
+    background-color: rgb(110, 111, 178);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.container a:hover {
+    background-color: rgb(102, 104, 164);
+}
+
+footer {
+    background-color: #af6b4c;
+    padding: 5px;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
